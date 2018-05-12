@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '33084'
     url: http://www.gutenberg.org/2009/agents/33084
 description: Abridgment of The autobiography of John G. Paton, published in 1889.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28025#The-Story-of-John-G.-PatonOr-Thirty-Years-Among-South-Sea-Cannibals
 gutenberg_issued: '2009-02-08'
 gutenberg_type: Text
 identifiers:
