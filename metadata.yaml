@@ -1,0 +1,35 @@
+_repo: The-Story-of-John-G.-PatonOr-Thirty-Years-Among-South-Sea-Cannibals_28025
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paton, John Gibson
+    birthdate: 1824
+    deathdate: 1907
+    gutenberg_agent_id: '33089'
+    url: http://www.gutenberg.org/2009/agents/33089
+  editor:
+    agent_name: Paton, James
+    birthdate: 1843
+    deathdate: 1906
+    gutenberg_agent_id: '33084'
+    url: http://www.gutenberg.org/2009/agents/33084
+description: Abridgment of The autobiography of John G. Paton, published in 1889.
+gutenberg_issued: '2009-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- Vanuatu'
+- !lcc 'BV'
+- !lcsh 'Paton, John Gibson, 1824-1907'
+title: 'The Story of John G. Paton
+
+  Or Thirty Years Among South Sea Cannibals'
+url: http://www.gutenberg.org/ebooks/28025
